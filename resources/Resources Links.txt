@@ -1,0 +1,10 @@
+John Smilga Site with resources
+https://www.johnsmilga.com/
+
+````````````````````````````````````````````````````````````````````````````````
+PROJECTS:
+SimplyRecipes
+SITE: https://gatsby-v3-tutorial-recipes.netlify.app/
+
+
+````````````````````````````````````````````````````````````````````````````````
