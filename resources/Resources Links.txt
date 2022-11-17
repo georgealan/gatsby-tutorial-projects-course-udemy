@@ -8,3 +8,14 @@ SITE: https://gatsby-v3-tutorial-recipes.netlify.app/
 
 
 ````````````````````````````````````````````````````````````````````````````````
+REACT-ICONS
+SITE: https://react-icons.github.io/react-icons/
+
+````````````````````````````````````````````````````````````````````````````````
+Gatsby Reference Guides
+https://www.gatsbyjs.com/docs/reference/
+
+
+
+
+
